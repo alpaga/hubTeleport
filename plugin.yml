@@ -1,0 +1,8 @@
+name: hubTeleport
+version: 0.0.1
+main: fr.ozedev.hubTeleport.HubTeleport
+commands:
+  hub:
+    description: Pour se téléporter au hub.
+    usage: /hub
+
